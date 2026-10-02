@@ -1,3 +1,4 @@
 1. Aprendí a usar git status para ver modificaciones.
 2. Aprendí a preparar cambios con git add.
 3. Aprendí a subir cambios a GitHub con git push.
+Notas adicionales
