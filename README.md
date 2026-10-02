@@ -4,3 +4,4 @@ Repositorio utilizado para aprender Git y Github.
 - Prácticas de Git
 -Ejercicios de clase
 - Proyecto de 2º SMR
+Prueba de sincronización
